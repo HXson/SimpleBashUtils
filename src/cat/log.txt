@@ -1,0 +1,171 @@
+
+-b -e new1.txt
+-e -b new1.txt
+-b -e -n new1.txt
+-b -e -s new1.txt
+-b -e -t new1.txt
+-b -e -v new1.txt
+-b -n -e new1.txt
+-b -s -e new1.txt
+-b -t -e new1.txt
+-b -v -e new1.txt
+-e -b -n new1.txt
+-e -b -s new1.txt
+-e -b -t new1.txt
+-e -b -v new1.txt
+-e -n -b new1.txt
+-e -s -b new1.txt
+-e -t -b new1.txt
+-e -v -b new1.txt
+-n -b -e new1.txt
+-n -e -b new1.txt
+-s -b -e new1.txt
+-s -e -b new1.txt
+-t -b -e new1.txt
+-t -e -b new1.txt
+-v -b -e new1.txt
+-v -e -b new1.txt
+-b -e -n -s new1.txt
+-b -e -n -t new1.txt
+-b -e -n -v new1.txt
+-b -e -s -n new1.txt
+-b -e -s -t new1.txt
+-b -e -s -v new1.txt
+-b -e -t -n new1.txt
+-b -e -t -s new1.txt
+-b -e -t -v new1.txt
+-b -e -v -n new1.txt
+-b -e -v -s new1.txt
+-b -e -v -t new1.txt
+-b -n -e -s new1.txt
+-b -n -e -t new1.txt
+-b -n -e -v new1.txt
+-b -n -s -e new1.txt
+-b -n -t -e new1.txt
+-b -n -v -e new1.txt
+-b -s -e -n new1.txt
+-b -s -e -t new1.txt
+-b -s -e -v new1.txt
+-b -s -n -e new1.txt
+-b -s -t -e new1.txt
+-b -s -v -e new1.txt
+-b -t -e -n new1.txt
+-b -t -e -s new1.txt
+-b -t -e -v new1.txt
+-b -t -n -e new1.txt
+-b -t -s -e new1.txt
+-b -t -v -e new1.txt
+-b -v -e -n new1.txt
+-b -v -e -s new1.txt
+-b -v -e -t new1.txt
+-b -v -n -e new1.txt
+-b -v -s -e new1.txt
+-b -v -t -e new1.txt
+-e -b -n -s new1.txt
+-e -b -n -t new1.txt
+-e -b -n -v new1.txt
+-e -b -s -n new1.txt
+-e -b -s -t new1.txt
+-e -b -s -v new1.txt
+-e -b -t -n new1.txt
+-e -b -t -s new1.txt
+-e -b -t -v new1.txt
+-e -b -v -n new1.txt
+-e -b -v -s new1.txt
+-e -b -v -t new1.txt
+-e -n -b -s new1.txt
+-e -n -b -t new1.txt
+-e -n -b -v new1.txt
+-e -n -s -b new1.txt
+-e -n -t -b new1.txt
+-e -n -v -b new1.txt
+-e -s -b -n new1.txt
+-e -s -b -t new1.txt
+-e -s -b -v new1.txt
+-e -s -n -b new1.txt
+-e -s -t -b new1.txt
+-e -s -v -b new1.txt
+-e -t -b -n new1.txt
+-e -t -b -s new1.txt
+-e -t -b -v new1.txt
+-e -t -n -b new1.txt
+-e -t -s -b new1.txt
+-e -t -v -b new1.txt
+-e -v -b -n new1.txt
+-e -v -b -s new1.txt
+-e -v -b -t new1.txt
+-e -v -n -b new1.txt
+-e -v -s -b new1.txt
+-e -v -t -b new1.txt
+-n -b -e -s new1.txt
+-n -b -e -t new1.txt
+-n -b -e -v new1.txt
+-n -b -s -e new1.txt
+-n -b -t -e new1.txt
+-n -b -v -e new1.txt
+-n -e -b -s new1.txt
+-n -e -b -t new1.txt
+-n -e -b -v new1.txt
+-n -e -s -b new1.txt
+-n -e -t -b new1.txt
+-n -e -v -b new1.txt
+-n -s -b -e new1.txt
+-n -s -e -b new1.txt
+-n -t -b -e new1.txt
+-n -t -e -b new1.txt
+-n -v -b -e new1.txt
+-n -v -e -b new1.txt
+-s -b -e -n new1.txt
+-s -b -e -t new1.txt
+-s -b -e -v new1.txt
+-s -b -n -e new1.txt
+-s -b -t -e new1.txt
+-s -b -v -e new1.txt
+-s -e -b -n new1.txt
+-s -e -b -t new1.txt
+-s -e -b -v new1.txt
+-s -e -n -b new1.txt
+-s -e -t -b new1.txt
+-s -e -v -b new1.txt
+-s -n -b -e new1.txt
+-s -n -e -b new1.txt
+-s -t -b -e new1.txt
+-s -t -e -b new1.txt
+-s -v -b -e new1.txt
+-s -v -e -b new1.txt
+-t -b -e -n new1.txt
+-t -b -e -s new1.txt
+-t -b -e -v new1.txt
+-t -b -n -e new1.txt
+-t -b -s -e new1.txt
+-t -b -v -e new1.txt
+-t -e -b -n new1.txt
+-t -e -b -s new1.txt
+-t -e -b -v new1.txt
+-t -e -n -b new1.txt
+-t -e -s -b new1.txt
+-t -e -v -b new1.txt
+-t -n -b -e new1.txt
+-t -n -e -b new1.txt
+-t -s -b -e new1.txt
+-t -s -e -b new1.txt
+-t -v -b -e new1.txt
+-t -v -e -b new1.txt
+-v -b -e -n new1.txt
+-v -b -e -s new1.txt
+-v -b -e -t new1.txt
+-v -b -n -e new1.txt
+-v -b -s -e new1.txt
+-v -b -t -e new1.txt
+-v -e -b -n new1.txt
+-v -e -b -s new1.txt
+-v -e -b -t new1.txt
+-v -e -n -b new1.txt
+-v -e -s -b new1.txt
+-v -e -t -b new1.txt
+-v -n -b -e new1.txt
+-v -n -e -b new1.txt
+-v -s -b -e new1.txt
+-v -s -e -b new1.txt
+-v -t -b -e new1.txt
+-v -t -e -b new1.txt
